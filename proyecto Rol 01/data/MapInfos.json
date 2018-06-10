@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"mapa bastion","order":1,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":2,"expanded":true,"name":"Calabozo","order":2,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":false,"name":"Calabozo piso 1","order":3,"parentId":2,"scrollX":640.8,"scrollY":356.4}
+{"id":2,"expanded":true,"name":"Calabozo","order":2,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
+{"id":3,"expanded":false,"name":"Calabozo piso 1","order":3,"parentId":2,"scrollX":720.8888888888889,"scrollY":409.77777777777777}
 ]
